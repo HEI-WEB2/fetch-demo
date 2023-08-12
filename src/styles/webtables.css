@@ -1,0 +1,12 @@
+.modal-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .btn-edit {
+    margin-right: 10px;
+  }
+  .container {
+    max-width: 960px;
+    overflow: scroll;
+  }
